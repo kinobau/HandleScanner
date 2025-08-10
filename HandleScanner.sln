@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandleScanner", "handle monitor\HandleScanner.csproj", "{7FAA1DBD-2803-49DF-94EC-B0318DBC5F4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FAA1DBD-2803-49DF-94EC-B0318DBC5F4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FAA1DBD-2803-49DF-94EC-B0318DBC5F4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FAA1DBD-2803-49DF-94EC-B0318DBC5F4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FAA1DBD-2803-49DF-94EC-B0318DBC5F4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57C71B39-C9CA-4B4D-B788-3BA886317AD6}
+	EndGlobalSection
+EndGlobal
